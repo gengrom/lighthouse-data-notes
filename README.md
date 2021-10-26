@@ -4,4 +4,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Gennadi for the Lighthouse Labs Data Science Bootcamp.
+This repository contains all of the notes taken by [Gennadi](https://github.com/gengrom/lighthouse-data-notes.git) for the Lighthouse Labs Data Science Bootcamp.
